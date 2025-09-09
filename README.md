@@ -63,3 +63,4 @@ Eu sou um aluno de Full Stack Dev na Infinity School e estou aprendendo Python.
 <hr>
 
 <img src="https://raw.githubusercontent.com/bcmmarra/snake-game/gh-pages/dist/github-snake.svg" alt="github-snake">
+

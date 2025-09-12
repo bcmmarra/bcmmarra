@@ -37,14 +37,14 @@ Eu sou um aluno de Full Stack Dev na Infinity School e estou aprendendo Python.
   <a href="http://wa.me/5531991853333" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Hi!"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=I'm+Bruno+Marra,+Estudante+de+Programação+Full+Stack+Infinity+School..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Olá!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=350&color=9F2129&vCenter=true&width=968&lines=Eu+sou+o+Bruno+Marra,+Estudante+de+Programação+Full+Stack+Infinity+School..."/>
 
 
 ## 🛠️ Habilidades
 
 #### Languages
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Em+andamento..."/><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=9F2129&vCenter=true&width=768&lines=Em+andamento..."/><br>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -54,7 +54,7 @@ Eu sou um aluno de Full Stack Dev na Infinity School e estou aprendendo Python.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### 🗄️ Banco de Dados
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Aguardando..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=9F2129&vCenter=true&width=768&lines=Aguardando..."/>
 
 #### 📜 Outras Tecnologias
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Aguardando..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=9F2129&vCenter=true&width=768&lines=Aguardando..."/>

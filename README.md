@@ -38,7 +38,7 @@ Eu sou um aluno de Full Stack Dev na Infinity School e estou aprendendo Python.
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Hi!"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=I'm+Bruno+Marra,+Full+Stack+Dev+Student+at+Infinity+School..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=I'm+Bruno+Marra,+Estudante+de+Programação+Full+Stack+Infinity+School..."/>
 
 
 ## 🛠️ Habilidades
@@ -58,9 +58,3 @@ Eu sou um aluno de Full Stack Dev na Infinity School e estou aprendendo Python.
 
 #### 📜 Outras Tecnologias
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=9F2129&vCenter=true&width=768&lines=Aguardando..."/>
-
-
-<hr>
-
-<img src="https://raw.githubusercontent.com/bcmmarra/snake-game/gh-pages/dist/github-snake.svg" alt="github-snake">
-

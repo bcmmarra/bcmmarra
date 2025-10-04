@@ -24,7 +24,7 @@ Aqui estão as principais tecnologias que estou aprendendo e utilizando:
 ## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
-<img src="./dist/github-contribution-grid-snake.svg" alt="Cobrinha Comendo Commits" />
+<img src="./github-contribution-grid-snake.svg" alt="Cobrinha Comendo Commits" />
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=bcmmarra&show_icons=true&theme=dark&rank_icon=github&hide_border=true"

@@ -23,7 +23,7 @@ Aqui estão as principais tecnologias que estou aprendendo e utilizando:
 ---
 ## 📈 Minhas Estatísticas no GitHub
 
-<div align="center">
+<p align="center">
     
     <img src="./dist/github-contribution-grid-snake.svg" alt="Cobrinha Comendo Commits" />
     <br/>
@@ -36,7 +36,8 @@ Aqui estão as principais tecnologias que estou aprendendo e utilizando:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmmarra&layout=compact&langs_count=5&theme=dark&hide_border=true" 
          alt="Linguagens Mais Usadas"
     />
-</div>
+    
+</p>
 ---
 
 ## 📞 Conecte-se Comigo

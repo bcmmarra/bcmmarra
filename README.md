@@ -24,19 +24,17 @@ Aqui estão as principais tecnologias que estou aprendendo e utilizando:
 ## 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
+    
     <img src="./dist/github-contribution-grid-snake.svg" alt="Cobrinha Comendo Commits" />
-    <br><br> 
+    <br/>
+    <br/> 
 
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=bcmmarra&show_icons=true&theme=dark&rank_icon=github&hide_border=true" 
-        alt="Estatísticas do GitHub" 
+    <img src="https://github-readme-stats.vercel.app/api?username=bcmmarra&show_icons=true&theme=dark&rank_icon=github&hide_border=true" 
+         alt="Estatísticas do GitHub" 
     />
     <br/>
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmmarra&layout=compact&langs_count=5&theme=dark&hide_border=true" 
-        alt="Linguagens Mais Usadas"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcmmarra&layout=compact&langs_count=5&theme=dark&hide_border=true" 
+         alt="Linguagens Mais Usadas"
     />
 </div>
 ---

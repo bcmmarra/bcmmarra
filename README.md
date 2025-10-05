@@ -21,6 +21,7 @@ Aqui estão as principais tecnologias que estou aprendendo e utilizando:
 | **Outras** | *Aguardando...* |
 
 ---
+
 ## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
@@ -35,6 +36,7 @@ alt="Estatísticas do GitHub"
 alt="Linguagens Mais Usadas"
 />
 </p>
+
 ---
 
 ## 📞 Conecte-se Comigo

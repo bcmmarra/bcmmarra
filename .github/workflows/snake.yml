@@ -1,0 +1,39 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Roda a cada 10 horas.
+    - cron: "0 */10 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Permissão essencial para que a ação consiga dar commit
+    permissions:
+      contents: write 
+      
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: bcmmarra
+          
+          # PARÂMETROS PARA AUMENTAR O TAMANHO
+          screen_width: 1200 # Aumenta a largura do SVG
+          duration: 18       # Tenta incluir 18 meses de histórico
+          
+          # Caminho de saída (o arquivo precisa estar na raiz para o seu README)
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          git_branch: main 
+
+      - name: Push new snake.svg to GitHub
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: main
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

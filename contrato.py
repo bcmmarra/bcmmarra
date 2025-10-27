@@ -23,6 +23,7 @@ referencias = {
     'MM': str(datetime.now().month),
     'AAAA': str(datetime.now().year)
 }
+
 for paragrafo in documento.paragraphs:
     for codigo in referencias:
         valor = referencias[codigo]
